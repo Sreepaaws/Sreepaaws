@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Sreepaaws
 - 👀 I’m interested in ... Coding
-- 🌱 I’m currently learning ... Automation
+- ✨ I do Automation......
+- 🌱 I’m currently learning ... Machine Learning 
 - 💞️ I’m looking to collaborate on ... knowledge
 - 📫 How to reach me ... sripavaniputta@gmail.com
 
